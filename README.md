@@ -35,3 +35,35 @@
     </main>
 </body>
 </html>
+/* Reset default browser styles */
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Itim', cursive;
+}
+
+/* Style for the board using CSS grid */
+.container {
+    display: grid;
+    grid-template-columns: repeat(3, 33%);
+    grid-template-rows: repeat(3, 33%);
+    gap: 2px;
+}
+
+.tile {
+    border: 2px solid #000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 24px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.tile:hover {
+    background-color: #f0f0f0;
+}
+
+/* Other styling as needed */
+/* ... */
+
