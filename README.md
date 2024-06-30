@@ -8,7 +8,7 @@ This repository contain a fun Tic-Tac-Toe game that you can play in webbrowser. 
 
 
 ## Demo
-You can try out the game live here.
+You can try out the game <a href="https://harshi-12367.github.io/Tik-Tac-Toe/">live here.</a>
 
 ## Contributing:
 
