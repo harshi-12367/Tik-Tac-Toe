@@ -17,11 +17,11 @@ h1 {
     margin-bottom: 20px;
 }
 .x {
-    color: rgb(38, 46, 200); /* Change X color to white */
+    color: rgb(38, 46, 200); /* Change X color to blue */
 }
 
 .circle {
-    color: rgb(57, 185, 65); /* Change O color to white */
+    color: rgb(57, 185, 65); /* Change O color to green */
 }
 
 #game-board {
